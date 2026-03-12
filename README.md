@@ -34,7 +34,7 @@ The dashboard visualizes key HR metrics, including:
 |-----------------|-----------------------|
 | Total Employees	|                  860  |
 | Total Salary	  |                  $63,000,000 |
-| Average Salary	|               $73.720 | 
+| Average Salary	|               $73,720 | 
 | Gender Pay Gap Indicator |        2.96  | 
 
 ## Key Insights
